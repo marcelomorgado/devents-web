@@ -12,7 +12,7 @@ See: [Embark Installation](https://embark.status.im/docs/index.html) (IPFS shoul
 git clone https://github.com/marcelomorgado/devents-web.git
 cd devents-web
 npm install
-embark simulator
-embark run
+npx embark simulator
+npx embark run
 ```
 Make sure your metamask is using http://localhost:8555 as RPC server
