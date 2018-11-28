@@ -5,6 +5,7 @@ A decentralized tickets marketplace for cryptoevents
 ## Pre-requisites
 
 See: [Embark Installation](https://embark.status.im/docs/index.html) (IPFS should be installed)
+Node.js v10.9.0
 
 ## Running
 
